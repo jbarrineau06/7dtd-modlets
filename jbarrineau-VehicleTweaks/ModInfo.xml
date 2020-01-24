@@ -2,9 +2,9 @@
 
 <xml>
 	<ModInfo>
-		<Name value="Nerd Herd Vehicle Tweaks" />
-		<Description value="Vehicle tweaks for the Nerd Herd." />
-		<Author value="Kryax" />
+		<Name value="jbarrineau-VehicleTweaks" />
+		<Description value="Vehicle tweaks." />
+		<Author value="jbarrineau06" />
 		<Version value="1.0" />
 		<Website value="" />
 	</ModInfo>
