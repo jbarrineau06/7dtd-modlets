@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <xml>
-	<ModInfo>
-		<Name value="jbarrineau-VehicleTweaks" />
-		<Description value="Vehicle tweaks." />
-		<Author value="jbarrineau06" />
-		<Version value="1.0" />
-		<Website value="" />
-	</ModInfo>
+  <ModInfo>
+    <Name value="jbarrineau-VehicleTweaks" />
+    <Description value="Vehicle tweaks." />
+    <Author value="jbarrineau06" />
+    <Version value="1.0" />
+    <Website value="" />
+  </ModInfo>
 </xml>
