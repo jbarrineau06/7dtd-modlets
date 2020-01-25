@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+  <!-- increase spear damage by 30% -->
+  <set xpath="/items/item[@name='meleeThrownSpearStone']/effect_group[@name='meleeThrownSpearStone']/passive_effect[@name='EntityDamage'][@operation='base_set']/@value">13.4</set> <!-- from 10.3 -->
+  <set xpath="/items/item[@name='meleeThrownSpearIron']/effect_group[@name='meleeThrownSpearIron']/passive_effect[@name='EntityDamage'][@operation='base_set']/@value">16.1</set>   <!-- from 12.4 -->
+  <set xpath="/items/item[@name='meleeThrownSpearSteel']/effect_group[@name='meleeThrownSpearSteel']/passive_effect[@name='EntityDamage'][@operation='base_set']/@value">24.2</set> <!-- from 18.6 -->
+
+  <!-- increase stun baton damage by 50% -->
+  <set xpath="/items/item[@name='meleeStunBaton']/effect_group[@name='meleeStunBaton']/passive_effect[@name='EntityDamage'][@operation='base_set']/@value">16.2</set>               <!-- from 10.8 -->
+
+  <!-- increase knuckle weapon damage by 30% -->
+  <set xpath="/items/item[@name='meleeKnucklesLeather']/effect_group[@name='meleeKnucklesLeather']/passive_effect[@name='EntityDamage'][@operation='base_set']/@value">8.1</set>    <!-- from 6.2  -->
+  <set xpath="/items/item[@name='meleeKnucklesIron']/effect_group[@name='meleeKnucklesIron']/passive_effect[@name='EntityDamage'][@operation='base_set']/@value">11.8</set>         <!-- from 9.1  -->
+  <set xpath="/items/item[@name='meleeKnucklesSteel']/effect_group[@name='meleeKnucklesSteel']/passive_effect[@name='EntityDamage'][@operation='base_set']/@value">17.6</set>       <!-- from 13.6 -->
+</configs>
