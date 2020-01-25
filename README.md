@@ -1,2 +1,2 @@
 # 7dtd-modlets
-Modlets for the game 7 Days to Die.
+A collection of modlets for 7 Days to Die. These are some modlets my friends and I use for our dedicated server. We try not to stray too far from vanilla gameplay, but try to fix some pain points with the game.
