@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<configs>
-  <set xpath="/items/item[@name='gunToolNailgun']/property[@class='Action1']/property[@name='Delay']/@value">.20</set>
-  <set xpath="/items/item[@name='meleeToolClawHammer']/property[@class='Action1']/property[@name='Delay']/@value">.30</set>
-  <set xpath="/items/item[@name='meleeToolStoneAxe']/property[@class='Action1']/property[@name='Delay']/@value">.40</set>
-</configs>
