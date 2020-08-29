@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs>
+  <set xpath="/vehicles/vehicle[@name='vehicleBicycle']/property[@name='velocityMax']/@value">8, 14</set> 	    <!-- From 5, 10 -->
+  <set xpath="/vehicles/vehicle[@name='vehicleMinibike']/property[@name='velocityMax']/@value">10, 16</set> 	  <!-- From 7, 10 -->
+  <set xpath="/vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='velocityMax']/@value">12, 20</set>   <!-- From 9, 14 -->
+  <set xpath="/vehicles/vehicle[@name='vehicle4x4Truck']/property[@name='velocityMax']/@value">12, 18</set>     <!-- From 9, 13 -->
+  <set xpath="/vehicles/vehicle[@name='vehicleGyrocopter']/property[@name='velocityMax']/@value">12, 22</set>   <!-- From 9, 15 -->
+</configs>
