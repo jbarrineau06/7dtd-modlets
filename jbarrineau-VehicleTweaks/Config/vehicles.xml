@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <configs>
-  <set xpath="/vehicles/vehicle[@name='vehicleBicycle']/property[@name='velocityMax']/@value">8, 14</set> 	    <!-- From 5, 10 -->
-  <set xpath="/vehicles/vehicle[@name='vehicleMinibike']/property[@name='velocityMax']/@value">10, 16</set> 	  <!-- From 7, 10 -->
-  <set xpath="/vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='velocityMax']/@value">14, 22</set>   <!-- From 9, 14 -->
-  <set xpath="/vehicles/vehicle[@name='vehicle4x4Truck']/property[@name='velocityMax']/@value">13, 20</set>     <!-- From 9, 14 -->
-  <set xpath="/vehicles/vehicle[@name='vehicleGyrocopter']/property[@name='velocityMax']/@value">12, 25</set>   <!-- From 9, 15 -->
+    <!-- Vanilla -->
+    <set xpath="/vehicles/vehicle[@name='vehicleBicycle']/property[@name='velocityMax']/@value">8, 14</set> 	  <!-- From 5, 10 -->
+    <set xpath="/vehicles/vehicle[@name='vehicleMinibike']/property[@name='velocityMax']/@value">10, 16</set> 	  <!-- From 7, 10 -->
+    <set xpath="/vehicles/vehicle[@name='vehicleMotorcycle']/property[@name='velocityMax']/@value">14, 22</set>   <!-- From 9, 14 -->
+    <set xpath="/vehicles/vehicle[@name='vehicle4x4Truck']/property[@name='velocityMax']/@value">13, 20</set>     <!-- From 9, 14 -->
+    <set xpath="/vehicles/vehicle[@name='vehicleGyrocopter']/property[@name='velocityMax']/@value">12, 25</set>   <!-- From 9, 15 -->
+
+    <!-- BdubsVehicles - https://7daystodiemods.com/bdubs-vehicles -->
+    <set xpath="/vehicles/vehicle[@name='vehicleMD500']/property[@name='velocityMax']/@value">25, 50</set> 	      <!-- From 25, 25 -->
+    <set xpath="/vehicles/vehicle[@name='vehicleUH60']/property[@name='velocityMax']/@value">25, 40</set> 	      <!-- From 25, 25 -->
+    <set xpath="/vehicles/vehicle[@name='vehicleDuster']/property[@name='velocityMax']/@value">18, 40</set>       <!-- From 18, 18 -->
 </configs>

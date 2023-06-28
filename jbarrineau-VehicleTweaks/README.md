@@ -1,2 +1,2 @@
 # jbarrineau-VehicleTweaks
-Increases the speed of all vehicles
+Tweaks to vanilla and modded vehicles
